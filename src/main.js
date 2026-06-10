@@ -73,17 +73,17 @@ const MEASURES_BY_CATEGORY = {
 };
 
 const sampleProducts = [
-  {
-    name: "Terno Ejecutivo Azul Noche",
-    category: "Ternos",
-    price: 420,
-    stock: 10,
-    visible: true,
-    featured: true,
-    description: "Corte moderno, elegante y versátil para oficina o eventos.",
-    sizes: ["S", "M", "L", "XL"],
-    imageUrl: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35"
-  }
+  // {
+  //   name: "Terno Ejecutivo Azul Noche",
+  //   category: "Ternos",
+  //   price: 420,
+  //   stock: 10,
+  //   visible: true,
+  //   featured: true,
+  //   description: "Corte moderno, elegante y versátil para oficina o eventos.",
+  //   sizes: ["S", "M", "L", "XL"],
+  //   imageUrl: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35"
+  // }
 //   {
 //     name: "Camisa Blanca Premium",
 //     category: "Camisas",
